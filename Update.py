@@ -27,7 +27,6 @@ elif win == "10":
 
 else:
     print(dist)
-    print("your OS not suppuprted, scrpit closes in 10 seconds")
-    time.sleep(10)    # pause 10(10.5) for seconds
+    time.sleep(10)    # pause for 10 seconds
 # Error message.
 
